@@ -22,7 +22,7 @@
 
    ## Test
    Watch this video:
-   ![Walkthrought] (https://drive.google.com/file/d/1tp33hba6-qJ-CTqmKCxzMFYePMmTkhcx/view "Walkthrought Video")
+   [Walkthrought] (https://drive.google.com/file/d/1tp33hba6-qJ-CTqmKCxzMFYePMmTkhcx/view "Walkthrought Video")
 
    ## Contributions
    It's an open source code so anyone that wants to optimize the code is more than welcome.
