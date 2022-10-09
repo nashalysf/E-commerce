@@ -9,7 +9,6 @@
    - [Test](#test)
    - [Contribution](#contribution)
    - [Contact](#contact)
-   - [undefined](#undefined)
 
    ## Languages
    JavaScript, ES6, Node
